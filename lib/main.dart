@@ -27,7 +27,6 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
   bool _resetInput = false;
   @override
   Widget build(BuildContext context) {
-    e
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.white,
